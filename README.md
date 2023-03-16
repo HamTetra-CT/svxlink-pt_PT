@@ -6,13 +6,19 @@ Para dar voz ao seu repetidor, vamos instalar novos ficheiros de som (formato .W
 #### 1 - Ir para a pasta de sons do SVXLink:
 ```
 cd
+```
+```
 cd /usr/share/svxlink/sounds/
 ```
 
 #### 2 - Obter os novos ficheiros audio (.ZIP), descompactar e limpar:
 ```
 sudo wget https://github.com/HamTetra-CT/svxlink-pt_PT/archive/master.zip
+```
+```
 sudo unzip master.zip
+```
+```
 sudo rm master.zip
 ```
 
