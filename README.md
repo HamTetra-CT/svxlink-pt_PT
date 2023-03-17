@@ -1,5 +1,5 @@
 # svxlink-pt_PT - Audio & Vozes em Português Portugal para o SVXLink
-Para dar voz ao seu repetidor, vamos instalar novos ficheiros de som (formato .WAV 16K) em português.
+Para dar voz ao seu repetidor, vamos instalar novos ficheiros de som (formato .WAV 16K) em português. Obrigado @CT7ADH
 
 **Instruções -**
 
