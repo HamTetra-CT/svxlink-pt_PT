@@ -22,14 +22,14 @@ sudo unzip master.zip
 sudo rm master.zip
 ```
 
-#### 3 - Confirmar que a nova pasta (svxlink-pt_PT-master) foi criada e está bem presente:
+#### 3 - Confirmar que a nova pasta (svxlink-pt_PT-main) foi criada e está bem presente:
 ```
 ls
 ```
 
-#### 4 - Renomear a recém criada pasta (svxlink-pt_PT-master) para o nome final:
+#### 4 - Renomear a recém criada pasta (svxlink-pt_PT-main) para o nome final:
 ```
-sudo mv svxlink-pt_PT-master pt_PT
+sudo mv svxlink-pt_PT-main pt_PT
 ```
 
 ### Terminado! Agora deve especificar no ficheiro ***svxlink.conf*** a linguagem para pt_PT.
