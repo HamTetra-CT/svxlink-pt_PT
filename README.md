@@ -33,7 +33,7 @@ sudo mv svxlink-pt_PT-main pt_PT
 ```
 
 ### Terminado! 
-Agora deve passar no ficheiro ***"svxlink.conf"*** ou ***"TetraLogic.conf"*** a linguagem de **us_US** para **pt_PT**.
+Agora deve passar a linguagem no ficheiro ***"svxlink.conf"*** ou ***"TetraLogic.conf"***  de **us_US** para **pt_PT**.
 ```
 DEFAULT_LANG=pt_PT
 ```
