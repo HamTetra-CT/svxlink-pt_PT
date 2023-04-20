@@ -1,7 +1,11 @@
 # svxlink-pt_PT - Audio & Vozes em Português Portugal para o SVXLink
-Para dar voz ao seu repetidor, vamos instalar novos ficheiros de som (formato .WAV 16K) em português. Obrigado @CT7ADH
 
-**Instruções -**
+🎙 Ficheiros de Audio & Vozes em Português Portugal para os repetidores e link que usam SVXLink. Estes ficheiro foram gerados em formato .WAV 16K e estão prontos a serem usados. Obrigado ao colega @CT7ADH pelo trabalho 🫰
+
+---
+
+## ➜ Instruções
+### 📣 Para dar voz ao seu repetidor, vamos instalar novos ficheiros de som (formato .WAV 16K) em português.
 
 #### 1 - Ir para a pasta de sons do SVXLink:
 ```
@@ -32,7 +36,7 @@ ls
 sudo mv svxlink-pt_PT-main pt_PT
 ```
 
-### Terminado! 
+### ✅ Terminado! 
 Agora deve passar a linguagem no ficheiro ***"svxlink.conf"*** ou ***"TetraLogic.conf"***  de **us_US** para **pt_PT**.
 ```
 DEFAULT_LANG=pt_PT
